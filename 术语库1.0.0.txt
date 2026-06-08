@@ -1,0 +1,46 @@
+版本号：1.0.0
+维护者：gettingbored
+更新时间：2026-06-08词条
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+Akechi Goro = 明智 吾郎
+Kurusu Akira = 来栖 晓
+Amamiya Ren = 雨宫 莲
+Takamaki Ann = 高卷 杏
+Sakura Futaba = 佐仓 双叶
+Kitagawa Yusuke = 喜多川 佑介
+Morgana = 摩尔加纳 
+Niijima Makoto = 新岛 真
+Yoshizawa Kasumi = 芳泽 霞
+Yoshizawa Sumire = 芳泽 堇
+Sakamoto Ryuji = 坂本 龙司
+Okumura Haru = 奥村 春
+Sakura Sojiro =佐仓 惣治郎 
+Takemi Tae = 武见 妙
+Niijima Sae = 新岛 冴 
+Shido Masayoshi = 狮童 正义
+Madarame Ichiryusai = 斑目 一流斋
+Kamoshida Suguru = 鸭志田 卓 
+Iwai Munehisa = 岩井 宗久
+Oya Ichiko = 大宅 一子
+Yoshida Toranosuke = 吉田 寅之助
+Maruki Takuto = 丸喜 拓人
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+persona：人格面具
+Shadow ：阴影
+Mementos ：印象空间 
+Phantom Thieves ：怪盗团
+Jazz Jin ：爵士酒吧
+Cognitive World ：认知世界 
+Palace：宫殿 
+Shujin Academy ：秀尽学园
+Shujin：秀尽
+Leblanc：卢布朗
+Penguin Sniper ：企鹅狙击手
+Treasure：秘宝
+Velvet Room：天鹅绒房间 
+Calling Card：预告信
+Change of Heart：改心 
